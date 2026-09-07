@@ -8,60 +8,48 @@ To create an cloud account in AWS and to explore all of its services.
 
 Step 1: Go to the AWS Website · 
 
-                  * Visit https://aws.amazon.com
-
-                  * Click “Create an AWS Account” in the top right corner.
+* Visit https://aws.amazon.com
+* Click “Create an AWS Account” in the top right corner.
 
 Step 2: Enter Account Information
                   
-                  * Email address – Use a valid email you have access to.
-                  
-                  * Password – Create a strong password.
-                  
-                  * AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
+* Email address – Use a valid email you have access to.
+* Password – Create a strong password.
+* AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
 
 Step 3: Choose Account Type
                   
-                  * Personal or Professional – Select based on how you plan to use AWS.
-                  
-                  * Fill in your contact information (name, address, phone number).
+* Personal or Professional – Select based on how you plan to use AWS.
+* Fill in your contact information (name, address, phone number).
 
 Step 4: Enter Payment Information
                   
-                  * Provide credit/debit card details.
-                  Note: You won’t be charged immediately. AWS offers a Free Tier, but entering card details is mandatory.
+* Provide credit/debit card details.
+Note: You won’t be charged immediately. AWS offers a Free Tier, but entering card details is mandatory.
 
 Step 5: Verify Your Identity
                   
-                  * Enter your phone number.
-                  
-                  * AWS will send a verification code via call or text.
-                  
-                  * Enter the code to confirm your identity.
+* Enter your phone number.
+* AWS will send a verification code via call or text.
+* Enter the code to confirm your identity.
       
 Step 6: Choose a Support Plan
                   
-                  * Choose one of the following:
-                  
-                  * Basic Support (Free)
-                  
-                  * Developer Support
-                  
-                  * Business Support
-                  
-                  * Enterprise Support
-
-                  *For most beginners, select Basic Support.
+* Choose one of the following:
+* Basic Support (Free)
+* Developer Support
+* Business Support
+* Enterprise Support
+* For most beginners, select Basic Support.
 
 Step 7: Complete the Sign-Up
                   
-                  * After reviewing all the details, click "Sign Up".
-                  
-                  * You’ll receive a confirmation email once your account is activated (usually within a few minutes).
+* After reviewing all the details, click "Sign Up".                  
+* You’ll receive a confirmation email once your account is activated (usually within a few minutes).
 
 Step 8: Sign In to AWS Console · Go to https://console.aws.amazon.com
                   
-                  * Log in using your email and password to start using AWS services.
+* Log in using your email and password to start using AWS services.
 
 
 ## Create a user with administrative access
