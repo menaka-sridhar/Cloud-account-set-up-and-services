@@ -1,3 +1,4 @@
+
 <img width="571" height="87" alt="image" src="https://github.com/user-attachments/assets/ca28d7a7-95b7-47c4-9d6d-6f7d8b1704ad" />
 
 ## Aim:
@@ -51,7 +52,6 @@ Step 8: Sign In to AWS Console · Go to https://console.aws.amazon.com
                   
 * Log in using your email and password to start using AWS services.
 
-
 ## Create a user with administrative access
 
 After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
@@ -62,12 +62,10 @@ After you sign up for an AWS account, secure your AWS account root user, enable 
 
 2. Turn on multi-factor authentication (MFA) for your root user.
 
-
 ## Create user with administrative access
 
 1. Enable IAM Identity Center.
 2. In IAM Identity Center, grant administrative access to a user.
-
 
 ## Sign in as the user with administrative access
 
