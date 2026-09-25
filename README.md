@@ -1,5 +1,8 @@
+## EX NO 1: Cloud-account-set-up-and-services
 
-<img width="571" height="87" alt="image" src="https://github.com/user-attachments/assets/ca28d7a7-95b7-47c4-9d6d-6f7d8b1704ad" />
+Name : M S Megala 
+
+Reg no: 212225040230
 
 ## Aim:
 
@@ -7,73 +10,63 @@ To create an cloud account in AWS and to explore all of its services.
 
 ## Procedure
 
-Step 1: Go to the AWS Website · 
+Step 1: Go to the AWS Website • Visit https://aws.amazon.com
 
-* Visit https://aws.amazon.com
-* Click “Create an AWS Account” in the top right corner.
+• Click “Create an AWS Account” in the top right corner.
 
-Step 2: Enter Account Information
-                  
-* Email address – Use a valid email you have access to.
-* Password – Create a strong password.
-* AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
+Step 2: Enter Account Information • Email address – Use a valid email you have access to.
 
-Step 3: Choose Account Type
-                  
-* Personal or Professional – Select based on how you plan to use AWS.
-* Fill in your contact information (name, address, phone number).
+• Password – Create a strong password.
 
-Step 4: Enter Payment Information
-                  
-* Provide credit/debit card details.
+• AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
+
+Step 3: Choose Account Type • Personal or Professional – Select based on how you plan to use AWS.
+
+• Fill in your contact information (name, address, phone number).
+
+Step 4: Enter Payment Information • Provide credit/debit card details.
+
 Note: You won’t be charged immediately. AWS offers a Free Tier, but entering card details is mandatory.
 
-Step 5: Verify Your Identity
-                  
-* Enter your phone number.
-* AWS will send a verification code via call or text.
-* Enter the code to confirm your identity.
-      
-Step 6: Choose a Support Plan
-                  
-* Choose one of the following:
-* Basic Support (Free)
-* Developer Support
-* Business Support
-* Enterprise Support
-* For most beginners, select Basic Support.
+Step 5: Verify Your Identity • Enter your phone number.
 
-Step 7: Complete the Sign-Up
-                  
-* After reviewing all the details, click "Sign Up".                  
-* You’ll receive a confirmation email once your account is activated (usually within a few minutes).
+• AWS will send a verification code via call or text.
 
-Step 8: Sign In to AWS Console · Go to https://console.aws.amazon.com
-                  
-* Log in using your email and password to start using AWS services.
+• Enter the code to confirm your identity.
 
-## Create a user with administrative access
+Step 6: Choose a Support Plan Choose one of the following: • Basic Support (Free)
 
-After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
+• Developer Support
 
-## Secure your AWS account root user
+• Business Support
 
-1. Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password.
+• Enterprise Support
 
-2. Turn on multi-factor authentication (MFA) for your root user.
+For most beginners, select Basic Support.
 
-## Create user with administrative access
+Step 7: Complete the Sign-Up • After reviewing all the details, click "Sign Up".
 
-1. Enable IAM Identity Center.
-2. In IAM Identity Center, grant administrative access to a user.
+• You’ll receive a confirmation email once your account is activated (usually within a few minutes).
 
-## Sign in as the user with administrative access
+Step 8: Sign In to AWS Console • Go to https://console.aws.amazon.com
 
-To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
+• Log in using your email and password to start using AWS services.
 
-## Services Overview:
-      
-Explore all the available services in AWS platform.
+Create a user with administrative access After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
+
+Secure your AWS account root user Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password. Turn on multi-factor authentication (MFA) for your root user.
+
+Create user with administrative access Enable IAM Identity Center. In IAM Identity Center, grant administrative access to a user.
+
+Sign in as the user with administrative access To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
+
+Services Overview: • Explore all the available services in AWS platform.
+
+## Output:
+
+<img width="1920" height="1200" alt="Screenshot 2026-07-28 212920" src="https://github.com/user-attachments/assets/8527495f-7237-4d46-9b54-85539548e2c7" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-07-28 214954" src="https://github.com/user-attachments/assets/5e55f7c1-20b9-44f3-8cea-5edcf00636b7" />
 
 ## Result:
 
