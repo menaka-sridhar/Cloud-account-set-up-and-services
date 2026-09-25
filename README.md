@@ -1,8 +1,8 @@
 ## EX NO 1: Cloud-account-set-up-and-services
 
-Name : M S Megala 
+Name : M S MENAKA
 
-Reg no: 212225040230
+Reg no: 212225040232
 
 ## Aim:
 
